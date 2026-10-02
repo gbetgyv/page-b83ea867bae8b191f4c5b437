@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-a9504e2d0a.zhenjiangai.cn/sitemap.xml
